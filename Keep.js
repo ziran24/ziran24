@@ -5,6 +5,3 @@ var nama;
  }else{
   alert('Hhmm sepertinya anda lupa siapa saya.');
  }else{
- nama=prompt('Coba Tebak Siapa Saya?');
- if(nama){
-  
