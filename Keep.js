@@ -3,7 +3,5 @@ var nama;
  if(nama) {
   alert('Apa kabar '+nama+'! Saya Zi_Ran2425, Masih ingatkah denganku?');
  } else {
-  alert('Apa kabar '+nama+'! Saya Zi_Ran2425, Masih ingatkah denganku?');
- } else {
-  alert('Apa kabar '+nama+'! Saya Zi_Ran2425, Masih ingatkah denganku?');
- } else {
+
+<center> <script> alert('Indonesian People!')</script>
