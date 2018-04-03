@@ -1,16 +1,16 @@
 var nama;
  nama1=prompt('Boleh tahu siapa nama anda?');
  if(putra){
-  alert('Benarkah ini '+nama1+'?');
+  alert('Benarkah ini '+putra+'?');
  }
  if(putra){
-  alert('Apa kabar '+nama1+'! Saya Zi_Ran2425, Masih ingatkah denganku?');
+  alert('Apa kabar '+putra+'! Saya Zi_Ran2425, Masih ingatkah denganku?');
  }
  if(putra){
-  alert('Hhmm sepertinya '+nama1+' lupa siapa saya.');
+  alert('Hhmm sepertinya '+putra+' lupa siapa saya.');
  }
 var nama;
  nama2=prompt('Tebak siapa saya?');
  if(ziran){
-  alert('Yakin '+nama1+' nama saya '+nama2+'?');
+  alert('Yakin '+putra+' nama saya '+ziran+'?');
  }
