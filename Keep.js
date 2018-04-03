@@ -1,6 +1,5 @@
 var nama;
- nama1=prompt('Boleh tahu siapa nama anda?')
-<input type="submit" value="Yakin">;
+ nama1=prompt('Boleh tahu siapa nama anda?');
  if(nama1){
   alert('Benarkah ini '+nama1+'?');
  }
@@ -11,8 +10,7 @@ var nama;
   alert('Hhmm sepertinya '+nama1+' lupa siapa saya.');
  }
 var nama;
- nama2=prompt('Tebak siapa saya?')
-<input type="submit" value="Yakin">;
+ nama2=prompt('Tebak siapa saya?');
  if(nama2){
   alert('Yakin '+nama1+' nama saya '+nama2+'?');
  }
