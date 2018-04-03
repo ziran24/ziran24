@@ -10,7 +10,10 @@ var nama;
   alert('Hhmm sepertinya '+nama1+' lupa siapa saya.');
  }
 var nama;
- ziran=prompt('Tebak siapa saya?');
- if(ziran){
-  alert('Yakin '+nama1+' nama saya '+ziran+'?');
+ nama2=prompt('Tebak siapa saya?');
+ if(nama2){
+  alert('Yakin '+nama1+' nama saya '+nama2+'?');
+ }
+ if(nama2){
+  alert('Bagus deh masih inget^^');
  }
